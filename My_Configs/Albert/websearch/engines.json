@@ -1,0 +1,18 @@
+[
+    {
+        "fallback": true,
+        "iconPath": ":default",
+        "id": "5c3ca31f",
+        "name": "Brave",
+        "trigger": "br",
+        "url": "https://search.brave.com/search?q=%s"
+    },
+    {
+        "fallback": true,
+        "iconPath": ":wolfram",
+        "id": "2d0f94a9",
+        "name": "Wolfram Alpha",
+        "trigger": "wa",
+        "url": "https://www.wolframalpha.com/input/?i=%s"
+    }
+]
